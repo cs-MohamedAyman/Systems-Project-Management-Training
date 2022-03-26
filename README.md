@@ -1,1 +1,1 @@
-# Project-Management-Training
+# Project Management Training
